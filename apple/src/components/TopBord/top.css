@@ -1,0 +1,94 @@
+/*First Section*/
+
+.first-hightlight-wrapper {
+  background-image: url("../../../public/resource/images/home/ipodPronew-sm.jpg");
+  height: 580px;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: initial;
+  background-color: #fbfbfd;
+  text-align: center;
+  padding: 65px 20px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+.ipod-caption {
+  color: #86868b;
+  font-size: 12px;
+  line-height: 1.33337;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  padding-top: 310px;
+}
+.new-alert {
+  color: #bf4801;
+  font-size: 18px;
+}
+.title-wraper {
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.15em;
+  letter-spacing: -0.04em;
+}
+.links-wrapper ul {
+  list-style: none;
+}
+.product-title {
+  font-weight: 700;
+  font-size: 56px;
+}
+.brief-description {
+  font-size: 2em;
+}
+.sixth-heghlight-wrapper .description-wraper {
+  max-width: 250px;
+  margin: 7px auto;
+}
+.description-wraper.white {
+  color: white;
+}
+.links-wrapper {
+  padding: 15px 0;
+}
+.links-wrapper ul li {
+  display: inline-block;
+  padding-right: 20px;
+}
+.links-wrapper ul li a {
+  color: #06c;
+  text-decoration: none;
+  font-size: 21px;
+}
+.links-wrapper ul li a:hover {
+  color: #000;
+}
+.links-wrapper ul li a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 10px;
+}
+/*Second section*/
+.second-hightlight-wrapper {
+  background-image: url("../../../public/resource/images/home/macbookair-new-sm.jpg");
+  height: 580px;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: initial;
+  background-color: #fbfbfd;
+  text-align: center;
+  padding: 65px 20px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+/*Third section*/
+.third-hightlight-wrapper {
+  background-image: url("../../../public/resource/images/home/iphone11-pro-bg.jpg");
+  height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 65px 20px;
+  color: #fff;
+}
